@@ -8,6 +8,8 @@ Proyecto desarrollado para la asignatura de **Inferencia Estadística** del Grad
 
 El objetivo del estudio fue analizar los factores que influyen en el precio del alquiler de viviendas en India y segmentar el mercado en diferentes perfiles mediante técnicas estadísticas y análisis exploratorio de datos.
 
+El repositorio incluye el código de R usado y una presentación con los resultados obtenidos.
+
 ## Objetivos
 
 * Estudiar la distribución de los precios de alquiler.
